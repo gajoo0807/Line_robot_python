@@ -1,3 +1,3 @@
-# Line_robot_python
-了解line聊天機器人的運作
-寫了一個小的機器人，並嘗試結合股票、基金等應用
+# Line Robot in Python
+## Overview
+This repository provides a simple Line chatbot implemented in Python. The chatbot is designed to integrate with various financial applications, including stock and fund information.
